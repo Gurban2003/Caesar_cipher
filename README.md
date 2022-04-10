@@ -1,4 +1,4 @@
-# Caesar_cipher -  Homework for TransUnion. Gurban Shukurov
+# Caesar_cipher - Gurban Shukurov
 Caesar_Cipher.rar - an archive with whole project and UnitTests
 Program.cs - the code of Caesar cipher
 EncryptTests.cs - the code of UnitTests
